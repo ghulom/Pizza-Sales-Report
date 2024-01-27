@@ -1,4 +1,4 @@
-![image](https://github.com/ghulom/Pizza-Sales-Report/assets/53784947/ada8639b-8c63-45df-8d52-d163f3b8f2c2)PROBLEM STATEMENT
+PROBLEM STATEMENT
 
 KPI’s REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
